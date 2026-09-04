@@ -1,0 +1,31 @@
+payment_id,reference_id,party_id,amount,payment_date,payment_type,raw_note
+PAY-001,INV-2026-0001,CUST001,50000,2026-07-28,receivable,Full payment - received
+PAY-002,INV-2026-0002,CUST002,30000,2026-08-02,receivable,Partial payment - balance pending
+PAY-003,INV-2026-0003,CUST003,25000,2026-08-07,receivable,Full payment - received
+PAY-004,,CUST004,70000,2026-08-12,receivable,No reference - unclear which invoice
+PAY-005,INV-2026-0005,CUST005,15000,2026-08-17,receivable,Full payment - received
+PAY-006,INV-2026-0006,CUST001,40000,2026-08-22,receivable,Partial payment - discount applied
+PAY-007,INV-2026-0007,CUST002,60000,2026-08-29,receivable,Full payment - received
+PAY-008,INV-2026-0008,CUST003,28000,2026-09-02,receivable,Partial payment - reason unclear
+PAY-009,INV-2026-0009,CUST004,70000,2026-09-08,receivable,Full payment - received
+PAY-010,,CUST005,20000,2026-09-12,receivable,NEFT transfer - ref missing
+PAY-011,INV-2026-0011,CUST001,55000,2026-09-18,receivable,Full payment - received
+PAY-012,INV-2026-0012,CUST002,36000,2026-09-22,receivable,Partial - short payment
+PAY-013,INV-2026-0013,CUST003,65000,2026-09-29,receivable,Full payment - received
+PAY-014,INV-2026-0014,CUST004,25000,2026-10-03,receivable,Partial - discrepancy
+PAY-015,INV-2026-0015,CUST005,90000,2026-10-08,receivable,Full payment - received
+PAY-016,INV-2026-0016,CUST001,32000,2026-10-13,receivable,Full payment - received
+PAY-017,INV-2026-0017,CUST002,75000,2026-10-18,receivable,Full payment - received
+PAY-018,INV-2026-0018,CUST003,20000,2026-10-23,receivable,Partial - damaged goods
+PAY-019,INV-2026-0019,CUST004,85000,2026-10-29,receivable,Full payment - received
+PAY-020,INV-2026-0020,CUST005,42000,2026-11-02,receivable,Full payment - received
+PAY-PO-001,PO-2026-0001,VEND001,40000,2026-07-20,payable,Payment to vendor
+PAY-PO-002,PO-2026-0002,VEND002,25000,2026-07-29,payable,Payment to vendor
+PAY-PO-003,,VEND003,18000,2026-08-08,payable,No PO reference
+PAY-PO-004,PO-2026-0004,VEND001,60000,2026-08-20,payable,Payment to vendor
+PAY-PO-005,PO-2026-0005,VEND002,30000,2026-09-03,payable,Partial payment
+PAY-PO-006,PO-2026-0006,VEND003,20000,2026-09-20,payable,Payment to vendor
+PAY-PO-007,PO-2026-0007,VEND001,50000,2026-10-04,payable,Payment to vendor
+PAY-PO-008,,VEND002,28000,2026-10-20,payable,Reference missing
+PAY-PO-009,PO-2026-0009,VEND003,15000,2026-11-03,payable,Payment to vendor
+PAY-PO-010,PO-2026-0010,VEND001,70000,2026-11-20,payable,Payment to vendor  

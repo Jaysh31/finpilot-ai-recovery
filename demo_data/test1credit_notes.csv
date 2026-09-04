@@ -1,0 +1,7 @@
+credit_note_id,invoice_id,amount,reason
+CN-2026-001,INV-2026-0002,5000,Early payment discount
+CN-2026-002,INV-2026-0006,5000,Quantity discount
+CN-2026-003,INV-2026-0008,2000,Damaged goods
+CN-2026-004,INV-2026-0012,4000,Quality issue
+CN-2026-005,INV-2026-0014,3000,Late delivery
+CN-2026-006,INV-2026-0018,2000,Damaged packaging

@@ -1,0 +1,15 @@
+payment_id,reference_id,party_id,amount,payment_date,payment_type,raw_note
+PAY-001,INV-2026-0001,CUST001,50000.00,2026-08-10,receivable,Full payment for INV-2026-0001
+PAY-002,PO-2026-0001,VEND001,25000.00,2026-08-20,payable,Payment for PO-2026-0001
+PAY-003,INV-2026-0003,CUST001,37500.00,2026-08-25,receivable,Partial payment for INV-2026-0003
+PAY-004,PO-2026-0002,VEND002,24000.00,2026-08-28,payable,Partial payment for PO-2026-0002
+PAY-005,,CUST002,58000.00,2026-08-22,receivable,Payment from Everest Foods - no reference
+PAY-006,,VEND001,31000.00,2026-08-24,payable,Payment to Raw Materials - no reference
+PAY-007,INV-2026-0006,CUST001,40000.00,2026-08-05,receivable,Partial payment for INV-2026-0006
+PAY-008,INV-2026-0007,CUST003,20000.00,2026-08-30,receivable,Small payment for INV-2026-0007
+PAY-009,PO-2026-0004,VEND002,30000.00,2026-07-25,payable,Partial payment for PO-2026-0004
+PAY-010,INV-2026-0002,CUST002,35000.00,2026-08-15,receivable,Full payment for INV-2026-0002
+PAY-011,INV-2026-0008,CUST001,45000.00,2026-09-01,receivable,Full payment for INV-2026-0008
+PAY-012,PO-2026-0005,VEND001,56000.00,2026-08-30,payable,Full payment for PO-2026-0005
+PAY-013,,CUST003,40000.00,2026-09-02,receivable,Payment from Sharma - no reference
+PAY-014,,VEND002,35000.00,2026-09-03,payable,Payment to Global Supplies - no reference
